@@ -35,7 +35,12 @@ constructor(beginningLocation, endingLocation){
   
 }
 
-
+blocksTravelled(){
+  
+  
+  
+  
+}
 
 
 
