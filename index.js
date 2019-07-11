@@ -48,7 +48,7 @@ blocksTravelled(){
 
 estimatedTime(peak){
   
-  return peak ? this.blocksTravelled()/2 : this.blocksTravelled/3 ; 
+  return peak ? this.blocksTravelled() / 2 : this.blocksTravelled / 3; 
 }
 
 
