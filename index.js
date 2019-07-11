@@ -26,7 +26,14 @@ yearsExperienceFromBeginningOf(year) {
 }
 
 
-
+class Route {
+  
+constructor(beginningLocation, endingLocation){
+  
+  
+  
+}
+}
 
 
 
