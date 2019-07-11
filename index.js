@@ -36,6 +36,9 @@ constructor(beginningLocation, endingLocation){
 }
 
 blocksTravelled(){
+  let vertical = Math.abs(this.beginningLocation.vertical - this.endingLocation.vertical);
+  
+  
   
   
   
