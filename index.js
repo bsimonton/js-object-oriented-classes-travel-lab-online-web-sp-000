@@ -46,7 +46,10 @@ blocksTravelled(){
 }
 
 
-estimatedTime
+estimatedTime(peak){
+  
+  return peak ? : 
+}
 
 
 
