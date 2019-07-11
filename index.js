@@ -46,6 +46,9 @@ blocksTravelled(){
 }
 
 
+estimatedTime
+
+
 
 
 }
